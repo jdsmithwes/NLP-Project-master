@@ -553,7 +553,7 @@ plt.show()
 ```
 
 
-![png](images/output_24_0.png)
+!(images/output_24_0.png)
 
 
 
@@ -604,7 +604,7 @@ plt.show()
 ```
 
 
-![png](images/output_27_0.png)
+!(images/output_27_0.png)
 
 
 
@@ -641,7 +641,7 @@ plt.show()
 ```
 
 
-![png](images/output_28_0.png)
+!(images/output_28_0.png)
 
 
 
@@ -678,7 +678,7 @@ plt.show()
 ```
 
 
-![png](images/output_29_0.png)
+!(images/output_29_0.png)
 
 
 
@@ -716,7 +716,7 @@ plt.show()
 ```
 
 
-![png](images/output_30_0.png)
+!(images/output_30_0.png)
 
 
 
@@ -753,7 +753,7 @@ plt.show()
 ```
 
 
-![png](images/output_31_0.png)
+!(images/output_31_0.png)
 
 
 
@@ -791,7 +791,7 @@ plt.show()
 ```
 
 
-![png](images/output_32_0.png)
+!(images/output_32_0.png)
 
 
 
@@ -838,7 +838,7 @@ plt.xticks(rotation=60)
 
 
 
-![png](images/output_35_1.png)
+!(images/output_35_1.png)
 
 
 
@@ -862,7 +862,7 @@ plt.xticks(rotation=60)
 
 
 
-![png](images/output_36_1.png)
+!(images/output_36_1.png)
 
 
 
@@ -886,7 +886,7 @@ plt.xticks(rotation=60)
 
 
 
-![png](images/output_37_1.png)
+!(images/output_37_1.png)
 
 
 
@@ -910,7 +910,7 @@ plt.xticks(rotation=60)
 
 
 
-![png](images/output_38_1.png)
+!(images/output_38_1.png)
 
 
 
@@ -934,7 +934,7 @@ plt.xticks(rotation=60)
 
 
 
-![png](images/output_39_1.png)
+!(images/output_39_1.png)
 
 
 
@@ -958,7 +958,7 @@ plt.xticks(rotation=60)
 
 
 
-![png](images/output_40_1.png)
+!(images/output_40_1.png)
 
 
 
@@ -982,7 +982,7 @@ plt.xticks(rotation=60)
 
 
 
-![png](images/output_41_1.png)
+!(images/output_41_1.png)
 
 
 ### Popularity of the Two Brands
@@ -1004,7 +1004,7 @@ plt.xlabel('Company')
 
 
 
-![png](images/output_43_1.png)
+!(images/output_43_1.png)
 
 
 Despite only having two inputs (Apple & Other Apple product or service) when compared to Google that had four inputs (Google,Android, Android App, Other Google product or service), Apple was discussed more in the tweets according to the data.
@@ -1027,7 +1027,7 @@ plt.title('Attendee Sentiment Expressed in Tweets')
 
 
 
-![png](images/output_45_1.png)
+!(images/output_45_1.png)
 
 
 
@@ -1128,7 +1128,7 @@ plt.title('Length of Tweets by Brand')
 
 
 
-![png](images/output_47_1.png)
+!(images/output_47_1.png)
 
 
 
